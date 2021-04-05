@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/noteskeeper/static/css/main.5ae8cd93.chunk.css",
+    "main.js": "/noteskeeper/static/js/main.5343f674.chunk.js",
+    "main.js.map": "/noteskeeper/static/js/main.5343f674.chunk.js.map",
+    "runtime-main.js": "/noteskeeper/static/js/runtime-main.9538b3c6.js",
+    "runtime-main.js.map": "/noteskeeper/static/js/runtime-main.9538b3c6.js.map",
+    "static/js/2.6c9a1bc4.chunk.js": "/noteskeeper/static/js/2.6c9a1bc4.chunk.js",
+    "static/js/2.6c9a1bc4.chunk.js.map": "/noteskeeper/static/js/2.6c9a1bc4.chunk.js.map",
+    "index.html": "/noteskeeper/index.html",
+    "static/css/main.5ae8cd93.chunk.css.map": "/noteskeeper/static/css/main.5ae8cd93.chunk.css.map",
+    "static/js/2.6c9a1bc4.chunk.js.LICENSE.txt": "/noteskeeper/static/js/2.6c9a1bc4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9538b3c6.js",
+    "static/js/2.6c9a1bc4.chunk.js",
+    "static/css/main.5ae8cd93.chunk.css",
+    "static/js/main.5343f674.chunk.js"
+  ]
+}
